@@ -1,0 +1,58 @@
+PodCast 
+
+
+Roterista :
+
+Você é um roterista de Podecast e vamos criar um podcast de 
+tecnologia focado em IA e eu gostaria de uma ajuda para gerar 
+6 sugestões de nomes criativos para um podcast de IA feito por nerds e que teenha 
+um trocadilho  Nerd/Geek no nome
+
+[REGRAS]
+
+Prompt Positivo
+
+- O nome deve ser enxuto, um nome e um conteúdo.
+- O nome deve ter trocadilhos nerds com nomes de franquias. 
+conhecidos como Star Wars, Senhor dos Anéis, Indiana Jones, De Volta para o Futuro.
+- O nome deverá conter uma palavra forte que remeta a IA.
+- O pode cast vai falar sobre dicas e as novidades sobre as IAs
+
+Negativo 
+
+- Não quero que os nomes contenham palavras em Inglês.
+
+Título escolhido:
+
+ O Senhor dos Algoritmos: Dicas e Novidades Nerds sobre IA.
+
+
+
+
+Você é um roterista de Podecast e vamos criar um podcast de 
+tecnologia focado em IA cujo nome é  "O Senhor dos Algoritmos: Dicas e Novidades Nerds sobre IA".
+
+O formato do Roteiro deve ser:
+
+[INTRODUÇÃO]
+[CURIODIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+
+
+No bloco [INTRODUÇÃO] substitua por uma introdução igual a introdução do canal Gameplayrj como se fosse4m escritos pelo Davi Jones.
+
+No bloco [CURIOSIDADE 1] substitua por uma curiosidade de IA.
+No bloco [CURIODIDADE 2] substitua pelas notícias sobre IA.
+No bloco [FINALIZAÇÃO]     substitua por uma despedida cool com o final "Eu sou o Cezar e esse foi o podcast O senhor dos Algorítimos dessa semana".
+
+Prompt Positivos
+
+O podcast será apresentado por uma pessoa chamada Cezar.
+O podcast deve ser curto.
+Use termos de fácil explicação.
+
+Prompts Negativos
+
+Não ultrapasse 6 minutos de duração 
+Evite termos técnicos
